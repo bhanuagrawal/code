@@ -1,0 +1,155 @@
+09-14 11:09:06.643 987-1002/? I/ActivityManager: START u0 {cmp=com.example.hello/com.mframe.LaunchLoginPageActivity} from uid 10402 on display 0
+09-14 11:09:06.645 987-1002/? V/WindowManager: addAppToken: AppWindowToken{5cb7109 token=Token{13ff8210 ActivityRecord{a3aa6d3 u0 com.example.hello/com.mframe.LaunchLoginPageActivity t332}}} to stack=1 task=332 at 1
+09-14 11:09:06.793 12784-12784/com.example.hello D/mFrameWebView: Inside startWebView
+09-14 11:09:06.794 12784-12784/com.example.hello D/mFrameWebView: Inside network status 1
+09-14 11:09:06.805 12784-12784/com.example.hello D/mFrameWebView: After removing session
+09-14 11:09:06.809 12784-12784/com.example.hello D/mFrameWebView: Received Device id : 352356077480531
+09-14 11:09:06.809 12784-12784/com.example.hello D/mFrameWebView: AppName=BEH&DeviceID=352356077480531&IsTouchEnabled=0&DeviceType=Android
+09-14 11:09:06.820 12784-12784/com.example.hello D/mFrameWebView: After PostUrl:
+09-14 11:09:06.831 987-2991/? V/WindowManager: Adding window Window{289a57be u0 com.example.hello/com.mframe.LaunchLoginPageActivity} at 4 of 11 (before Window{1566174 u0 Starting com.example.hello})
+09-14 11:09:06.848 987-1554/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=null newFocus=Window{289a57be u0 com.example.hello/com.mframe.LaunchLoginPageActivity}
+09-14 11:09:06.955 987-1014/? I/LaunchCheckinHandler: Displayed com.example.hello/com.mframe.LaunchLoginPageActivity,wp,ca,270
+09-14 11:09:06.955 987-1014/? I/ActivityManager: Displayed com.example.hello/com.mframe.LaunchLoginPageActivity: +270ms (total +1s453ms)
+09-14 11:09:06.958 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH
+09-14 11:09:07.014 987-1002/? V/WindowManager: not Base app: Adding window Window{1be14417 u0 com.example.hello/com.mframe.LaunchLoginPageActivity} at 6 of 12
+09-14 11:09:07.014 987-1002/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{289a57be u0 com.example.hello/com.mframe.LaunchLoginPageActivity} newFocus=Window{1be14417 u0 com.example.hello/com.mframe.LaunchLoginPageActivity}
+09-14 11:09:07.360 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/favicon.ico
+09-14 11:09:07.360 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/utxMSSOLogin/login?TYPE=33554432&REALMOID=06-00025af3-f708-193e-a26e-b23ac0a8a0be&GUID=&SMAUTHREASON=0&METHOD=POST&SMAGENTNAME=0BQYk3rebRCT1ZSmqg2aZ9j0duCLNAGUo3GmCB62tgvgiqoSzr17BZipP5THL25J&TARGET=-SM-https%3a%2f%2fm%2ebehuat%2eultimatix%2enet%2fBEH
+09-14 11:09:07.370 12784-12784/com.example.hello D/mFrameWebView: Inside onPageFinished
+09-14 11:09:07.380 987-1583/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{1be14417 u0 com.example.hello/com.mframe.LaunchLoginPageActivity EXITING} newFocus=Window{289a57be u0 com.example.hello/com.mframe.LaunchLoginPageActivity}
+09-14 11:09:07.385 12784-12784/com.example.hello D/mFrameWebView: Inside OnPageFinished Cookie : 
+09-14 11:09:07.385 12784-12784/com.example.hello D/mFrameWebView: OTL Token in Login webView:
+09-14 11:09:07.411 987-3841/? V/WindowManager: not Base app: Adding window Window{529f0f u0 com.example.hello/com.mframe.LaunchLoginPageActivity} at 6 of 12
+09-14 11:09:07.411 987-3841/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{289a57be u0 com.example.hello/com.mframe.LaunchLoginPageActivity} newFocus=Window{529f0f u0 com.example.hello/com.mframe.LaunchLoginPageActivity}
+09-14 11:09:07.710 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/css/bootstrap_3.0.3_min.css
+09-14 11:09:07.711 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/mobile_css/mobileLogin.css
+09-14 11:09:07.713 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/js/jquery-2.1.4.min.js
+09-14 11:09:07.714 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/js/mobile_login_min.js
+09-14 11:09:07.920 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/js/jquery_min.js
+09-14 11:09:08.064 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/mobile_img/Ultimatix-Logo-1.png
+09-14 11:09:08.090 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/mobile_img/mobileLoginPage.jpg
+09-14 11:09:08.093 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/img/userMgmtImages/Personalized_Username_Webinnerscreen.png
+09-14 11:09:08.096 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/img/mobileLoginbutton.png
+09-14 11:09:08.583 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/favicon.ico
+09-14 11:09:08.589 12784-12784/com.example.hello D/mFrameWebView: Inside onPageFinished
+09-14 11:09:08.604 987-3821/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{529f0f u0 com.example.hello/com.mframe.LaunchLoginPageActivity EXITING} newFocus=Window{289a57be u0 com.example.hello/com.mframe.LaunchLoginPageActivity}
+09-14 11:09:08.612 12784-12784/com.example.hello D/mFrameWebView: Inside OnPageFinished Cookie : 
+09-14 11:09:08.612 12784-12784/com.example.hello D/mFrameWebView: OTL Token in Login webView:
+09-14 11:09:08.640 238-238/? D/SFPerfTracer:        layers: (5:13) (FocusedStackFrame (0xb8af25b8): 0:5821)* (DimLayer (0xb8af43d8): 0:238)* (StatusBar (0xb8a5b598): 0:61042) (com.android.systemui.ImageWallpaper (0xb8a60ab8): 0:559)* (DimLayer (0xb8ad96c8): 0:19914) (DimLayer (0xb8aec088): 0:1477)* (NavigationBar (0xb8acf858): 0:519) (com.google.android.googlequicksearchbox/com.google.android.launcher.GEL (0xb8b160d8): 0:64)- (Starting com.example.hello (0xb8b12288): 0:41)- (com.example.hello/com.mframe.LaunchLoginPageActivity (0xb8b160d8): 3:25) (com.example.hello/com.mframe.LaunchLoginPageActivity (0xb8b0e870): 0:31)- (com.example.hello/com.mframe.LaunchLoginPageActivity (0xb8b12288): 3:52) 
+09-14 11:09:17.452 238-238/? D/SFPerfTracer:        layers: (4:11) (FocusedStackFrame (0xb8af25b8): 0:5822)* (DimLayer (0xb8af43d8): 0:238)* (StatusBar (0xb8a5b598): 0:61047) (com.android.systemui.ImageWallpaper (0xb8a60ab8): 0:559)* (DimLayer (0xb8ad96c8): 0:19926)* (DimLayer (0xb8aec088): 0:1477)* (NavigationBar (0xb8acf858): 0:520) (com.example.hello/com.mframe.LaunchLoginPageActivity (0xb8b160d8): 1:51) (com.example.hello/com.mframe.LaunchLoginPageActivity (0xb8b12288): 0:62)- (InputMethod (0xb8b12288): 2:42) 
+09-14 11:09:20.043 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/ultimatixLogin/mloginsso.fcc
+09-14 11:09:20.079 987-1003/? V/WindowManager: not Base app: Adding window Window{198dbed0 u0 com.example.hello/com.mframe.LaunchLoginPageActivity} at 5 of 11
+09-14 11:09:20.079 987-1003/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{289a57be u0 com.example.hello/com.mframe.LaunchLoginPageActivity} newFocus=Window{198dbed0 u0 com.example.hello/com.mframe.LaunchLoginPageActivity}
+09-14 11:09:20.272 12784-12784/com.example.hello D/mFrameWebView: Inside shouldOverrideUrlLoading current url :https://m.behuat.ultimatix.net/BEH
+09-14 11:09:21.097 12784-12784/com.example.hello D/mFrameWebView: Inside shouldOverrideUrlLoading current url :https://mobileauthsit.ultimatix.net/mobileLogin/utxMSSOLogin/login?TYPE=33554432&REALMOID=06-00025af3-f708-193e-a26e-b23ac0a8a0be&GUID=0&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=0BQYk3rebRCT1ZSmqg2aZ9j0duCLNAGUo3GmCB62tgvgiqoSzr17BZipP5THL25J&TARGET=-SM-https%3a%2f%2fm%2ebehuat%2eultimatix%2enet%2fBEH
+09-14 11:09:21.184 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/css/bootstrap_3.0.3_min.css
+09-14 11:09:21.185 12784-12815/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/mobile_css/mobileLogin.css
+09-14 11:09:21.634 12784-12784/com.example.hello D/mFrameWebView: Inside onPageFinished
+09-14 11:09:21.646 987-4590/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{198dbed0 u0 com.example.hello/com.mframe.LaunchLoginPageActivity EXITING} newFocus=Window{289a57be u0 com.example.hello/com.mframe.LaunchLoginPageActivity}
+09-14 11:09:21.650 12784-12784/com.example.hello D/mFrameWebView: Inside OnPageFinished Cookie : 
+09-14 11:09:21.650 12784-12784/com.example.hello D/mFrameWebView: OTL Token in Login webView:
+09-14 11:09:21.699 238-238/? D/SFPerfTracer:        layers: (5:11) (FocusedStackFrame (0xb8af25b8): 0:5823)* (DimLayer (0xb8af43d8): 0:238)* (StatusBar (0xb8a5b598): 0:61049) (com.android.systemui.ImageWallpaper (0xb8a60ab8): 0:559)* (DimLayer (0xb8ad96c8): 0:19936) (DimLayer (0xb8aec088): 0:1477)* (NavigationBar (0xb8acf858): 0:521) (com.example.hello/com.mframe.LaunchLoginPageActivity (0xb8b160d8): 1:64) (InputMethod (0xb8b12288): 0:73)- (com.example.hello/com.mframe.LaunchLoginPageActivity (0xb8b0e870): 79:93) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+09-14 11:14:10.902 987-1002/? I/ActivityManager: START u0 {cmp=com.example.hello/com.tcs.mframe.LaunchLoginPageActivity} from uid 10402 on display 0
+09-14 11:14:10.905 987-1002/? V/WindowManager: addAppToken: AppWindowToken{bba1117 token=Token{262f8196 ActivityRecord{29078b1 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity t335}}} to stack=1 task=335 at 1
+09-14 11:14:11.042 13756-13756/com.example.hello D/mFrameWebView: Inside startWebView
+09-14 11:14:11.043 13756-13756/com.example.hello D/mFrameWebView: Inside network status 1
+09-14 11:14:11.047 13756-13756/com.example.hello D/mFrameWebView: After removing session
+09-14 11:14:11.052 13756-13756/com.example.hello D/mFrameWebView: Received Device id : 352356077480531
+09-14 11:14:11.053 13756-13756/com.example.hello D/mFrameWebView: AppName=BEH&DeviceID=352356077480531&IsTouchEnabled=0&DeviceType=Android
+09-14 11:14:11.070 13756-13756/com.example.hello D/mFrameWebView: After PostUrl:
+09-14 11:14:11.079 987-3820/? V/WindowManager: Adding window Window{30ae2b34 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity} at 4 of 11 (before Window{9dd9f1a u0 Starting com.example.hello})
+09-14 11:14:11.093 987-2991/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=null newFocus=Window{30ae2b34 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity}
+09-14 11:14:11.193 987-1014/? I/LaunchCheckinHandler: Displayed com.example.hello/com.tcs.mframe.LaunchLoginPageActivity,wp,ca,248
+09-14 11:14:11.193 987-1014/? I/ActivityManager: Displayed com.example.hello/com.tcs.mframe.LaunchLoginPageActivity: +248ms (total +1s432ms)
+09-14 11:14:11.202 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH
+09-14 11:14:11.249 987-1207/? V/WindowManager: not Base app: Adding window Window{279cae2a u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity} at 6 of 12
+09-14 11:14:11.249 987-1207/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{30ae2b34 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity} newFocus=Window{279cae2a u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity}
+09-14 11:14:11.627 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/utxMSSOLogin/login?TYPE=33554432&REALMOID=06-00025af3-f708-193e-a26e-b23ac0a8a0be&GUID=&SMAUTHREASON=0&METHOD=POST&SMAGENTNAME=0BQYk3rebRCT1ZSmqg2aZ9j0duCLNAGUo3GmCB62tgvgiqoSzr17BZipP5THL25J&TARGET=-SM-https%3a%2f%2fm%2ebehuat%2eultimatix%2enet%2fBEH
+09-14 11:14:11.627 13756-13785/com.example.hello D/mFrameWebView: Inside if Intercepted url : https://mobileauthsit.ultimatix.net/mobileLogin/utxMSSOLogin/login?TYPE=33554432&REALMOID=06-00025af3-f708-193e-a26e-b23ac0a8a0be&GUID=&SMAUTHREASON=0&METHOD=POST&SMAGENTNAME=0BQYk3rebRCT1ZSmqg2aZ9j0duCLNAGUo3GmCB62tgvgiqoSzr17BZipP5THL25J&TARGET=-SM-https%3a%2f%2fm%2ebehuat%2eultimatix%2enet%2fBEH
+09-14 11:14:11.631 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/favicon.ico
+09-14 11:14:11.637 13756-13756/com.example.hello D/mFrameWebView: Inside onPageFinished
+09-14 11:14:11.648 987-1002/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{279cae2a u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity EXITING} newFocus=Window{30ae2b34 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity}
+09-14 11:14:11.656 13756-13756/com.example.hello D/mFrameWebView: Inside OnPageFinished Cookie : 
+09-14 11:14:11.656 13756-13756/com.example.hello D/mFrameWebView: OTL Token in Login webView:
+09-14 11:14:11.688 987-4590/? V/WindowManager: not Base app: Adding window Window{3448d882 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity} at 6 of 12
+09-14 11:14:11.689 987-4590/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{30ae2b34 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity} newFocus=Window{3448d882 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity}
+09-14 11:14:11.754 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/favicon.ico
+09-14 11:14:11.773 13756-13756/com.example.hello D/mFrameWebView: Inside onPageFinished
+09-14 11:14:11.773 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/utxMSSOLogin/login?TYPE=33554432&REALMOID=06-00025af3-f708-193e-a26e-b23ac0a8a0be&GUID=&SMAUTHREASON=0&METHOD=POST&SMAGENTNAME=0BQYk3rebRCT1ZSmqg2aZ9j0duCLNAGUo3GmCB62tgvgiqoSzr17BZipP5THL25J&TARGET=-SM-https%3a%2f%2fm%2ebehuat%2eultimatix%2enet%2fBEH
+09-14 11:14:11.773 13756-13785/com.example.hello D/mFrameWebView: Inside if Intercepted url : https://mobileauthsit.ultimatix.net/mobileLogin/utxMSSOLogin/login?TYPE=33554432&REALMOID=06-00025af3-f708-193e-a26e-b23ac0a8a0be&GUID=&SMAUTHREASON=0&METHOD=POST&SMAGENTNAME=0BQYk3rebRCT1ZSmqg2aZ9j0duCLNAGUo3GmCB62tgvgiqoSzr17BZipP5THL25J&TARGET=-SM-https%3a%2f%2fm%2ebehuat%2eultimatix%2enet%2fBEH
+09-14 11:14:11.777 987-1207/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{3448d882 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity EXITING} newFocus=Window{30ae2b34 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity}
+09-14 11:14:11.780 13756-13756/com.example.hello D/mFrameWebView: Inside OnPageFinished Cookie : 
+09-14 11:14:11.780 13756-13756/com.example.hello D/mFrameWebView: OTL Token in Login webView:
+09-14 11:14:11.808 987-3841/? V/WindowManager: not Base app: Adding window Window{14feb3c9 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity} at 7 of 13
+09-14 11:14:11.808 987-3841/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{30ae2b34 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity} newFocus=Window{14feb3c9 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity}
+09-14 11:14:11.982 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/css/bootstrap_3.0.3_min.css
+09-14 11:14:11.984 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/mobile_css/mobileLogin.css
+09-14 11:14:11.985 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/js/jquery-2.1.4.min.js
+09-14 11:14:11.986 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/js/mobile_login_min.js
+09-14 11:14:12.133 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/js/jquery_min.js
+09-14 11:14:12.287 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/mobile_img/Ultimatix-Logo-1.png
+09-14 11:14:12.484 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/mobile_img/mobileLoginPage.jpg
+09-14 11:14:12.488 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/img/userMgmtImages/Personalized_Username_Webinnerscreen.png
+09-14 11:14:12.490 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/mobileLogin/img/mobileLoginbutton.png
+09-14 11:14:12.748 238-238/? D/SFPerfTracer:        layers: (5:14) (FocusedStackFrame (0xb8af25b8): 1:5859)* (DimLayer (0xb8af43d8): 0:238)* (StatusBar (0xb8a5b598): 0:61187) (com.android.systemui.ImageWallpaper (0xb8a60ab8): 0:563)* (DimLayer (0xb8ad96c8): 4:20021) (DimLayer (0xb8aec088): 0:1482)* (NavigationBar (0xb8acf858): 0:555) (com.google.android.googlequicksearchbox/com.google.android.launcher.GEL (0xb8b160d8): 0:45)- (Starting com.example.hello (0xb8b12288): 0:41)- (com.example.hello/com.tcs.mframe.LaunchLoginPageActivity (0xb8b160d8): 15:26) (com.example.hello/com.tcs.mframe.LaunchLoginPageActivity (0xb8b0e870): 0:32)- (com.example.hello/com.tcs.mframe.LaunchLoginPageActivity (0xb8b12288): 0:15)- (com.example.hello/com.tcs.mframe.LaunchLoginPageActivity (0xb8b0fb18): 40:49) 
+09-14 11:14:12.908 13756-13756/com.example.hello D/mFrameWebView: Inside onPageFinished
+09-14 11:14:12.916 987-1920/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{14feb3c9 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity EXITING} newFocus=Window{30ae2b34 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity}
+09-14 11:14:12.932 13756-13756/com.example.hello D/mFrameWebView: Inside OnPageFinished Cookie : 
+09-14 11:14:12.932 13756-13756/com.example.hello D/mFrameWebView: OTL Token in Login webView:
+09-14 11:14:12.973 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/favicon.ico
+09-14 11:14:22.552 238-238/? D/SFPerfTracer:        layers: (4:11) (FocusedStackFrame (0xb8af25b8): 0:5860)* (DimLayer (0xb8af43d8): 0:238)* (StatusBar (0xb8a5b598): 1:61193) (com.android.systemui.ImageWallpaper (0xb8a60ab8): 0:563)* (DimLayer (0xb8ad96c8): 0:20033)* (DimLayer (0xb8aec088): 0:1482)* (NavigationBar (0xb8acf858): 0:556) (com.example.hello/com.tcs.mframe.LaunchLoginPageActivity (0xb8b160d8): 0:52) (com.example.hello/com.tcs.mframe.LaunchLoginPageActivity (0xb8b0fb18): 0:60)- (InputMethod (0xb8b12288): 1:38) 
+09-14 11:14:25.859 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://mobileauthsit.ultimatix.net/ultimatixLogin/mloginsso.fcc
+09-14 11:14:25.901 987-3821/? V/WindowManager: not Base app: Adding window Window{366f6865 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity} at 5 of 11
+09-14 11:14:25.901 987-3821/? D/WindowManager: IKSWL-9411 focusChangedLw lastFocus=Window{30ae2b34 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity} newFocus=Window{366f6865 u0 com.example.hello/com.tcs.mframe.LaunchLoginPageActivity}
+09-14 11:14:26.084 13756-13756/com.example.hello D/mFrameWebView: Inside shouldOverrideUrlLoading current url :https://m.behuat.ultimatix.net/BEH
+09-14 11:14:27.458 13756-13756/com.example.hello D/mFrameWebView: Inside shouldOverrideUrlLoading current url :https://m.behuat.ultimatix.net/BEH/
+09-14 11:14:28.897 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/appResources/css/Branding.css
+09-14 11:14:28.902 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/appResources/css/style.css
+09-14 11:14:28.903 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/bootstrap/css/bootstrap.min.css
+09-14 11:14:28.907 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/bootstrap/font-awesome/css/font-awesome.min.css
+09-14 11:14:28.908 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/appResources/css/jquerycssmenu.css
+09-14 11:14:28.909 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/datatable/css/jquery.dataTables.min.css
+09-14 11:14:28.912 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/datatable/css/responsive.dataTables.min.css
+09-14 11:14:28.918 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/datatable/css/angular-datatables.min.css
+09-14 11:14:28.920 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/patternLock/BEHD3.css
+09-14 11:14:28.920 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/patternLock/max.nv.d3.css
+09-14 11:14:28.921 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/angular-xeditable/css/xeditable.css
+09-14 11:14:28.922 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/ui-select/select.min.css
+09-14 11:14:28.923 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/jquery/jquery.js
+09-14 11:14:28.924 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/bootstrap/js/bootstrap.min.js
+09-14 11:14:28.924 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/datatable/js/jquery.dataTables.min.js
+09-14 11:14:28.925 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/datatable/js/dataTables.responsive.min.js
+09-14 11:14:28.926 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/showdown/showdown.min.js
+09-14 11:14:28.927 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/appResources/js/jquery.reject.js
+09-14 11:14:28.927 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/appResources/js/displayMenu.js
+09-14 11:14:28.928 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/angular/angular.min.js
+09-14 11:14:28.929 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/angular/angular-route.min.js
+09-14 11:14:28.930 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/angular/angular-resource.min.js
+09-14 11:14:28.931 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/angular/angular-sanitize.min.js
+09-14 11:14:28.931 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/angular/ui-bootstrap-tpls.min.js
+09-14 11:14:28.931 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/datatable/js/angular-datatables.min.js
+09-14 11:14:28.932 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/datatable/js/angular-datatables.bootstrap.min.js
+09-14 11:14:28.932 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/showdown/markdown.js
+09-14 11:14:28.932 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/angular-xeditable/js/xeditable.js
+09-14 11:14:28.933 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/ui-select/select.min.js
+09-14 11:14:28.934 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/appResources/js/services.js
+09-14 11:14:28.934 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/appResources/js/application.js
+09-14 11:14:28.934 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/appResources/js/Controller.js
+09-14 11:14:28.935 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/appResources/js/BEHController.js
+09-14 11:14:28.935 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/appResources/js/BEHChallengesController.js
+09-14 11:14:28.935 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/appResources/js/Factory.js
+09-14 11:14:28.936 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/IE/json2.js
+09-14 11:14:28.936 13756-13785/com.example.hello D/mFrameWebView: Intercepting https://m.behuat.ultimatix.net/BEH/extResources/IE/es5-shim.min.js
